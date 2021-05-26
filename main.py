@@ -1,4 +1,3 @@
-#fail on purpose
 def hello():
   print("hello")
   
